@@ -1,12 +1,17 @@
 # MyAL
 
-This is used to  scrape data from My Anime List site. Used to get data to implement in anime search results, as well as get description after performing  valid search.
+This is used to  scrape data from My Anime List site (https://myanimelist.net/). Used to get data to implement in anime search results, as well as get description after performing  valid search.
 
 
 # Functions
 
 - animeData("Anime Name") : Returns the anime data as a dictionary
 - animeSearch("Anime Name") : Search for the valid anime result name (shows top 7 names)
+
+## Installation
+```
+pip install MyAL
+```
 
 ## Requirements
 - beautifulsoup4
