@@ -8,7 +8,7 @@ This is used to  scrape data from My Anime List site (https://myanimelist.net/).
 - animeData("Anime Name") : Returns the anime data as a dictionary
 - animeSearch("Anime Name") : Search for the valid anime result name (shows top 7 names)
 
-## Installation
+## Installation (https://pypi.org/project/MyAL/0.3/)
 ```
 pip install MyAL
 ```
