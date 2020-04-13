@@ -1,1 +1,1 @@
-from MAL.MALsearch import MALdata
+from MyAL.MALsearch import MALdata
